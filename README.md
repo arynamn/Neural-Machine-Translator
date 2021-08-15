@@ -16,3 +16,13 @@ Final leaderboard rank on the test set: 17 <br/>
 METEOR Score wrt to the best code: 0.309 <br/>
 BLEU Score wrt to the best code: 0.0751 <br/>
 
+
+Development Cycle:
+
+    
+    1. Started with GRU units
+    2. Implemented Teacher Forcing
+    3. Implemented LSTM units and BiLSTM units.
+    4. Implemented Attention Mechanism to GRU and LSTM units.
+    5. Tried BEAM SEARCH
+
